@@ -1,9 +1,8 @@
-!SLIDE 
-# My Presentation #
+!SLIDE
+# Vcover 2.0 #
 
 !SLIDE bullets incremental
-# Bullet Points #
+# Rewrite against NewReg #
 
-* first point
-* second point
-* third point
+* NewReg already keeps _all_ the test data (plusargs, etc)
+* NewReg also has result stats

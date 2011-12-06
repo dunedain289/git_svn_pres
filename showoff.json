@@ -1,5 +1,7 @@
 { "name": "Vcover 2.0",
   "sections": [
-    {"section":"intro"}
+    {"section":"intro"},
+    {"section":"data"},
+    {"section":"stats"}
   ]
 }
