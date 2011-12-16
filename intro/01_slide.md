@@ -1,8 +1,5 @@
 !SLIDE
-# Vcover 2.0 #
+# Modern Version Control #
 
-!SLIDE bullets incremental
-# Rewrite against NewReg #
-
-* NewReg already keeps _all_ the test data (plusargs, etc)
-* NewReg also has result stats
+## Subversion ##
+## Git ##

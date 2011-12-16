@@ -1,7 +1,8 @@
-{ "name": "Vcover 2.0",
+{ "name": "Modern Version Control",
   "sections": [
     {"section":"intro"},
-    {"section":"data"},
-    {"section":"stats"}
+    {"section":"subversion"},
+    {"section":"git"},
+    {"section":"comparison"}
   ]
 }
