@@ -10,3 +10,8 @@
 * Stored completely in .git directory
 * Version encompases entire repo
 * No central server/repo
+
+!SLIDE center
+# Graph #
+
+![graph](graph.png)

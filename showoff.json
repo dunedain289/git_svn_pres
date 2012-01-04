@@ -3,6 +3,7 @@
     {"section":"intro"},
     {"section":"subversion"},
     {"section":"git"},
-    {"section":"comparison"}
+    {"section":"comparison"},
+    {"section":"close"}
   ]
 }
